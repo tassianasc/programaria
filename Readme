@@ -1,0 +1,11 @@
+Rodar servidor: node server
+Rodar o arquivo oi: node oi
+
+http://localhost:3333/ola 
+resposta: Olá, mundo!
+
+Objetos: formato json 
+ex: resp. json({
+  nome: 'Tássia',
+  idade : 32,
+})
