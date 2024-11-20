@@ -1,9 +1,12 @@
 Rodar servidor: node server
 Rodar o arquivo oi: node oi
 
+node mulheres
+
 http://localhost:3333/ola 
 resposta: Olá, mundo!
 
+http://localhost:3333/mulheres
 Objetos: formato json 
 ex: resp. json({
   nome: 'Tássia',
